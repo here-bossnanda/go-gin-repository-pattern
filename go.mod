@@ -1,4 +1,4 @@
-module github.com/sekolahmu/boilerplate-go
+module github.com/here-bossnanda/go-gin-repository-pattern
 
 go 1.21
 
