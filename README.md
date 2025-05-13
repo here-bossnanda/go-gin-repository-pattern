@@ -1,4 +1,4 @@
-# Boilerplate Go
+# Go Gin Repository Pattern
 
 Boilerplate Go adalah template proyek Go yang mengimplementasikan clean architecture dengan repository pattern. Proyek ini menggunakan Gin Gonic sebagai web framework dan mendukung REST API serta gRPC.
 
